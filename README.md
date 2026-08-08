@@ -2,7 +2,7 @@
 
 ## What I learned
 
-1. Cemented concepts including:
+Cemented concepts including:
     * Lists (ordered/unordered)
     * Links (relative/absolute)
     * Attributes for HTML elements
